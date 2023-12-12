@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.8b8cfa35.css",
+    "main.js": "/shopping-cart/static/js/main.9803c5d8.js",
+    "static/js/787.a034523b.chunk.js": "/shopping-cart/static/js/787.a034523b.chunk.js",
+    "static/media/hero_image.png": "/shopping-cart/static/media/hero_image.09ff1c4114792a6143c2.png",
+    "static/media/exclusive_image.png": "/shopping-cart/static/media/exclusive_image.e8118f2149d9cb916980.png",
+    "static/media/product_4.png": "/shopping-cart/static/media/product_4.ea0420ca9cec08d6df05.png",
+    "static/media/product_2.png": "/shopping-cart/static/media/product_2.d4e74f367160ec10fb34.png",
+    "static/media/product_1.png": "/shopping-cart/static/media/product_1.5a757396ee7ff5dd91c1.png",
+    "static/media/product_3.png": "/shopping-cart/static/media/product_3.be48863df18b272b8f59.png",
+    "static/media/hand_icon.png": "/shopping-cart/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "index.html": "/shopping-cart/index.html",
+    "main.8b8cfa35.css.map": "/shopping-cart/static/css/main.8b8cfa35.css.map",
+    "main.9803c5d8.js.map": "/shopping-cart/static/js/main.9803c5d8.js.map",
+    "787.a034523b.chunk.js.map": "/shopping-cart/static/js/787.a034523b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8cfa35.css",
+    "static/js/main.9803c5d8.js"
+  ]
+}
